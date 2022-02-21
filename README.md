@@ -1,5 +1,7 @@
 # Wordler
 
+[![C/C++ CI](https://github.com/bradenn/Wordler/actions/workflows/cworkflow.yml/badge.svg)](https://github.com/bradenn/Wordler/actions/workflows/cworkflow.yml)
+
 This is a command line word guessing game.
 
 ## Getting Started
